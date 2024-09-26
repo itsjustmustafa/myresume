@@ -29,7 +29,8 @@ Toshiba TTEC _(Jan 2020 – Apr 2021)_
 
 ## EDUCATION
 __Bachelor of Computing Science (Honours), Major in Data Analytics and Artificial Intelligence__
-University of Technology, Sydney _(2017 - 2021)_
+
+University of Technology Sydney _(2017 - 2021)_
 
 ## PROJECTS
 __Wikipedia First Browser Extension__
